@@ -43,7 +43,7 @@
 &kp TAB           &kp Q           &kp W           &kp E             &kp R           &kp T      &kp Y   &kp U        &kp I              &kp O           &kp P               &kp LBKT   &kp RBKT   &kp BACKSPACE
 &mt LCTRL ESCAPE  &hm LEFT_GUI A  &hm LEFT_ALT S  &hm LEFT_SHIFT D  &hm LCTRL F     &kp G      &kp H   &hm LCTRL J  &hm RIGHT_SHIFT K  &hm LEFT_ALT L  &hm RIGHT_GUI SEMI  &kp SQT    &none      &kp RET
 &kp LSHFT         &none           &kp Z           &kp X             &kp C           &kp V      &kp B   &kp N        &kp M              &kp COMMA       &kp DOT             &kp FSLH   &kp RSHFT  &mo FN1
-&kp LCTRL         &kp LGUI        &mo 2           &kp SPACE         &hm RALT SPACE  &kp SPACE  &none   &mo 2        &mo 1              &kp RCTRL
+&kp LCTRL         &kp LGUI        &mo 2           &kp SPACE         &hm RALT SPACE  &kp SPACE  &none   &mo 2        &mo 3              &kp RCTRL
 &none
             >;
 
